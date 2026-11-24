@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lab 1 — System Internals, Virtualization & Logic Design",
+    "desc": "Audited host hardware and processes with Sysinternals, deployed Kali in VMware, simulated CPU execution and half-adder logic in LMC and CircuitVerse, and mapped ICT attack surfaces.",
+    "image": "assets/images/lapy.jpg",
+    "category": "cs117"
+  },
+  {
+    "name": "Lab 2 — Data Encoding, Hashing & Obfuscation with CyberChef",
+    "desc": "Converted binary, hex, and Base64; identified file types from magic bytes; analyzed SHA-256 avalanche integrity; and decoded layered obfuscation to solve a CyberChef CTF challenge.",
+    "image": "assets/images/lapy.jpg",
+    "category": "cs117"
+  },
+  {
+    "name": "Lab 4 — Disks, Partitions & Digital Forensics in Kali",
+    "desc": "Analyzed MBR/GPT with GNOME Disks and GParted, inspected 55 AA boot signatures in GHex, and recovered a deleted file from a forensic disk image using Autopsy.",
+    "image": "assets/images/lapy.jpg",
+    "category": "cs117"
+  }
+]
